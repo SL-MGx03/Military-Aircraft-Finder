@@ -144,7 +144,7 @@ print(f"Total training time: {train_time_end - train_time_start:.3f} seconds")
 
 
 # Path to your test image
-custom_image_path = r"C:\Users\LOQ\Desktop\NGMG\Military Aircraft Project\military_aircraft_data_set\Validation\An124\90.jpg"# Enter image path
+custom_image_path = r" "# Enter image path
 
 # Use the function
 label, confidence = predict_on_image(custom_image_path, 
