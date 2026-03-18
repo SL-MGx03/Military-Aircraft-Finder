@@ -164,7 +164,7 @@ Contributions, issues, and feature requests are welcome. Suggested workflow:
 
 License
 -------
-Add your preferred license (e.g., MIT). This project currently does not include a license file — add one if you want to permit reuse.
+GNU General Public License v3.0
 
 Acknowledgements & Credits
 --------------------------
