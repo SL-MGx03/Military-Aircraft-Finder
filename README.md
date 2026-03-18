@@ -175,5 +175,3 @@ Contact
 -------
 Project author: SL-MGx03  
 Personal website: https://slmgx.live
-
-If you would like, this README can be added directly to the repository as a PR and I can also prepare a recommended requirements.txt and a LICENSE file.
